@@ -1,4 +1,4 @@
-[![Run on Replit](https://repl.it/badge/github/project_clojure)](https://repl.it/github/project_clojure)
+[![Run on Replit]([(https://replit.com/@asyagrehova/projectclojure#README.md)](https://replit.com/@asyagrehova/projectclojure#README.md))
 
 
 # project_clojure
