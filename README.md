@@ -1,3 +1,6 @@
+[![Run on Replit](https://repl.it/badge/github/project_clojure)](https://repl.it/github/project_clojure)
+
+
 # project_clojure
  Выполнение проекта СМП НГУ на тему "Облачные вычисления"
 
