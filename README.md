@@ -1,4 +1,4 @@
-[![Run on Replit](https://replit.com/join/bgiyzjqvfe-asyagrehova)]
+[Run on Replit](https://replit.com/join/bgiyzjqvfe-asyagrehova)
 
 
 # project_clojure
